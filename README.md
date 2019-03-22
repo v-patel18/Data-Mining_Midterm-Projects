@@ -9,4 +9,6 @@ Titanic Survivors.ipynb is a python notebook that executes classification modell
 
 When run on Google Colab, the only action required is the uploading of the train.csv and test.csv files for the project at the beginning of the notebook. Other than that, running all the cells should generate the house price predictions for the test.csv files, along with the RMSE scoring for the models used.
 
+The train and test files for each project have been provided in this repository.
+
 Note: At the execution of the last block of code in each of the python notebooks, submission files for each of the projects will automatically be downloaded.

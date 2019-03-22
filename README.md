@@ -12,3 +12,4 @@ When run on Google Colab, the only action required is the uploading of the train
 The train and test files for each project have been provided in this repository.
 
 Note: At the execution of the last block of code in each of the python notebooks, submission files for each of the projects will automatically be downloaded.
+At the time of submission, the house price model ranked at position 876 (score: 0.1190), and the titanic model ranked at position 1534 (score: 0.7990)
